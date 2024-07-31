@@ -2,7 +2,7 @@
 
 ### TODO:
 
-- [What is AI as a service (AIaaS)? A beginner’s guide for 2024]([https://www.techtarget.com/searchenterpriseai/definition/Artificial-Intelligence-as-a-Service-AIaaS](https://www.zendesk.com/sg/blog/ai-as-a-service/))
+- [What is AI as a service (AIaaS)? A beginner’s guide for 2024](https://www.zendesk.com/sg/blog/ai-as-a-service/)
 - Read about AI services on different cloud providers (AWS, GCP, ...)
 
 ### Key Concepts:
